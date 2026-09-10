@@ -1,0 +1,26 @@
+﻿DepartmentID,DepartmentName,Location,Phone
+1,Cardiology,Floor 3,2081557001
+2,General Practice,Floor 1,2081557002
+3,Neurology,Floor 4,2081557003
+4,Orthopaedics,Floor 2,2081557004
+5,Oncology,Floor 5,2081557005
+1,Accident and Emergency,Ground Floor,2081557006
+2,Paediatrics,Floor 2,2081557007
+3,Radiology,Floor 1,2081557008
+4,Dermatology,Floor 3,2081557009
+5,Psychiatry,Floor 6,2081557010
+1,Ophthalmology,Floor 4,2081557011
+2,Gynaecology,Floor 5,2081557012
+3,Urology,Floor 3,2081557013
+4,Gastroenterology,Floor 2,2081557014
+5,Haematology,Floor 4,2081557015
+1,Rheumatology,Floor 5,2081557016
+2,Endocrinology,Floor 3,2081557017
+3,Respiratory Medicine,Floor 2,2081557018
+4,Renal Medicine,Floor 4,2081557019
+5,Vascular Surgery,Floor 6,2081557020
+1,Plastic Surgery,Floor 5,2081557021
+2,Maxillofacial Surgery,Floor 3,2081557022
+3,Infectious Diseases,Floor 4,2081557023
+4,Palliative Care,Floor 6,2081557024
+5,Rehabilitation,Floor 2,2081557025

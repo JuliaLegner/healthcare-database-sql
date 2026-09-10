@@ -1,1 +1,11 @@
-
+﻿StaffID,DepartmentID,FirstName,LastName,Role,Email,Phone
+1,1,David,Taylor,Role,d.taylor@hospital.com,8322010158
+2,1,Julia,Davis,Receptionist,j.davis@hospital.com,9004382050
+3,3,Robert,Smith,Administrator,r.smith@hospital.com,8737740598
+4,4,Emily,Jones,Nurse,e.jones@hospital.com,6594221991
+5,2,Robert,Davis,Receptionist,r.davis@hospital.com,9118538547
+6,2,Alex,Taylor,Administrator,a.taylor@hospital.com,6570137231
+7,6,June,Jones,Nurse,j.jones@hospital.com,8217493115
+8,7,Linda,Smith,Ward Manager,l.smith@hospital.com,9069162601
+9,5,Sarah,Brown,Receptionist,s.brown@hospital.com,7387087517
+10,2,Aline,Wilson,Administrator,a.wilson@hospital.com,6176383634

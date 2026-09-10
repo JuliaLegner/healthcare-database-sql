@@ -1,0 +1,51 @@
+﻿RecordID,PatientID,DoctorID,Diagnosis,Treatment,RecordDate
+1,1,1,Hypertension,"Prescribed Amlodipine 10mg, low-sodium diet advised",2024-01-05
+2,2,2,Type 2 Diabetes,"Prescribed Metformin 500mg, dietary plan provided",2024-01-08
+3,3,3,Chronic Migraine,"Prescribed Sumatriptan 50mg, MRI scan ordered",2024-01-10
+4,4,4,Knee Osteoarthritis,"Prescribed Ibuprofen 400mg, physiotherapy referral issued",2024-01-12
+5,5,5,Suspected Lymphoma,"Oncology consultation initiated, biopsy scheduled",2024-01-15
+6,6,6,Atrial Fibrillation,"Prescribed Bisoprolol 5mg, ECG monitoring arranged",2024-01-18
+7,7,7,Hypertension,"Prescribed Lisinopril 10mg, weekly blood pressure monitoring",2024-01-20
+8,8,8,Post-surgical Recovery,"Prescribed Paracetamol 1000mg, follow-up in 4 weeks",2024-01-22
+9,9,9,Chest Infection,"Prescribed Amoxicillin 500mg, rest and fluids advised",2024-01-25
+10,10,10,Angina,"Prescribed Atorvastatin 20mg, cardiac stress test ordered",2024-01-28
+11,11,11,Rotator Cuff Injury,"Prescribed Diclofenac 50mg, physiotherapy referral issued",2024-02-01
+12,12,12,Chronic Obstructive Pulmonary Disease,"Prescribed Salbutamol inhaler, smoking cessation advised",2024-02-03
+13,13,13,Asthma,"Prescribed Salbutamol 100mcg, peak flow monitoring arranged",2024-02-05
+14,14,14,Depression,"Prescribed Sertraline 50mg, CBT referral issued",2024-02-08
+15,15,15,Anxiety Disorder,"Prescribed Citalopram 20mg, counselling referral arranged",2024-02-10
+16,16,16,Hypothyroidism,"Prescribed Levothyroxine 50mcg, thyroid monitoring scheduled",2024-02-12
+17,17,17,Rheumatoid Arthritis,"Prescribed Methotrexate 10mg, regular blood tests required",2024-02-15
+18,18,18,Irritable Bowel Syndrome,"Prescribed Omeprazole 20mg, dietary adjustments advised",2024-02-18
+19,19,19,Urinary Tract Infection,"Prescribed Trimethoprim 200mg, increased fluid intake advised",2024-02-20
+20,20,20,Anaemia,"Prescribed iron supplements, dietary review arranged",2024-02-22
+21,21,21,Psoriasis,"Prescribed Prednisolone cream, dermatology referral issued",2024-02-25
+22,22,22,Eczema,"Prescribed Cetirizine 10mg, moisturiser regimen advised",2024-02-28
+23,23,23,Gout,"Prescribed Allopurinol 100mg, low-purine diet advised",2024-03-01
+24,24,24,Kidney Stones,"Prescribed Diclofenac 50mg, urological review arranged",2024-03-03
+25,25,25,Deep Vein Thrombosis,"Prescribed Rivaroxaban 20mg, compression stockings advised",2024-03-05
+26,26,1,Pneumonia,"Prescribed Clarithromycin 500mg, chest X-ray ordered",2024-03-08
+27,27,2,Appendicitis,"Referred for emergency surgical review, nil by mouth",2024-03-10
+28,28,3,Gallstones,"Prescribed Omeprazole 20mg, surgical review arranged",2024-03-12
+29,29,4,Peptic Ulcer,"Prescribed Lansoprazole 30mg, dietary modifications advised",2024-03-15
+30,30,5,Coeliac Disease,"Prescribed gluten-free diet, dietitian referral issued",2024-03-18
+31,31,6,Multiple Sclerosis,"Prescribed Gabapentin 300mg, neurological review arranged",2024-03-20
+32,32,7,Parkinson's Disease,"Prescribed Levodopa, physiotherapy and OT referral issued",2024-03-22
+33,33,8,Epilepsy,"Prescribed Lamotrigine, driving restrictions discussed",2024-03-25
+34,34,9,Stroke,"Prescribed Aspirin 75mg, rehabilitation referral issued",2024-03-28
+35,35,10,Heart Failure,"Prescribed Furosemide 40mg, fluid restriction advised",2024-04-01
+36,36,11,Chronic Kidney Disease,"Prescribed Ramipril 5mg, renal monitoring arranged",2024-04-03
+37,37,12,Liver Cirrhosis,"Prescribed Spironolactone 25mg, alcohol cessation advised",2024-04-05
+38,38,13,Osteoporosis,"Prescribed Alendronic acid, calcium supplement advised",2024-04-08
+39,39,14,Fibromyalgia,"Prescribed Amitriptyline 10mg, pain management referral",2024-04-10
+40,40,15,Lupus,"Prescribed Hydroxychloroquine 200mg, rheumatology review",2024-04-12
+41,41,16,Breast Cancer,"Referred to oncology, chemotherapy planning initiated",2024-04-15
+42,42,17,Prostate Cancer,"Referred to urology, prostate biopsy arranged",2024-04-18
+43,43,18,Colorectal Cancer,"Referred to colorectal surgery, colonoscopy scheduled",2024-04-20
+44,44,19,Skin Cancer,"Referred to dermatology, excision biopsy arranged",2024-04-22
+45,45,20,Leukaemia,"Referred to haematology, bone marrow biopsy scheduled",2024-04-25
+46,46,21,Hyperthyroidism,"Prescribed Carbimazole 20mg, thyroid function monitoring",2024-04-28
+47,47,22,Polycystic Ovary Syndrome,"Prescribed Metformin 500mg, hormonal therapy discussed",2024-05-01
+48,48,23,Endometriosis,"Prescribed Naproxen 250mg, laparoscopy discussed",2024-05-03
+49,49,24,Vertigo,"Prescribed Cyclizine 50mg, vestibular exercises advised",2024-05-05
+50,50,25,Sciatica,"Prescribed Diclofenac 50mg, physiotherapy referral issued",2024-05-08
